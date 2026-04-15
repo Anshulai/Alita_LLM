@@ -126,7 +126,7 @@ This demonstrates that Transformer architectures are not limited to language but
 ![Architecture](images/architecture.png)
 
 ### Model Output
-![output](image.png)
+![output](images/image.png)
 ![Output](images/alita_1776147028.png)
 ![Output](images/alita_1776147535.png)
 ![Output](images/alita_1776189611.png)
