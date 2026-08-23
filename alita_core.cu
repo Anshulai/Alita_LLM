@@ -21,7 +21,7 @@
 #define MAX_CTX    128
 #define MAX_NEW    80
 #define TOP_K      60
-#define CSV_DIR    "dialogpt_csv"
+#define CSV_DIR    "Alita"
 #define MAX_LINE   (1024 * 256)
 
 /* ── CUDA error check ────────────────────────────────────────────────────── */
